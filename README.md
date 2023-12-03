@@ -1,0 +1,4 @@
+- 👋 Hi, i'm Henri
+- 👀 My particularly interest is in web design, programming and the intersection of technology.
+- 🌱 Always learning about what the world of technology can offer us, in programming, software development, and communication.
+- 📫 Here's my professional E-mail: henrischumannsouza@gmail.com
